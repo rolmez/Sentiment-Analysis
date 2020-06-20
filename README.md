@@ -1,6 +1,6 @@
 ﻿# Duygu Analizi
 
-Makine öğrenimi teknikleri kullanılarak duygu analizi çalışması gerçekleştirilmiştir. Çalışma kapsamında, Linear Regression, SGDClassifier ve Naive Bayes algoritmaları kullanılmıştır.
+Makine öğrenimi teknikleri kullanılarak duygu analizi çalışması gerçekleştirilmiştir. Çalışma kapsamında, Logistic Regression, SGDClassifier ve Naive Bayes algoritmaları kullanılmıştır.
 
 ## Veri Kümesi
 
